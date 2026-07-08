@@ -4,6 +4,8 @@ bin/
 obj/
 *.user
 *.suo
+*.slnx
+*.sln
 
 # NuGet
 packages/
