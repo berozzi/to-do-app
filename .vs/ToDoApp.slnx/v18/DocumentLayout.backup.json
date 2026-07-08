@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\GracjanCode\\Desktop\\to-do-app\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5480FAA2-4085-4140-B92A-C61C23E9C67A}|ToDoApp\\ToDoApp.csproj|c:\\users\\gracjancode\\desktop\\to-do-app\\todoapp\\services\\itaskexport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5480FAA2-4085-4140-B92A-C61C23E9C67A}|ToDoApp\\ToDoApp.csproj|solutionrelative:todoapp\\services\\itaskexport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5480FAA2-4085-4140-B92A-C61C23E9C67A}|ToDoApp\\ToDoApp.csproj|c:\\users\\gracjancode\\desktop\\to-do-app\\todoapp\\services\\taskexport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5480FAA2-4085-4140-B92A-C61C23E9C67A}|ToDoApp\\ToDoApp.csproj|solutionrelative:todoapp\\services\\taskexport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5480FAA2-4085-4140-B92A-C61C23E9C67A}|ToDoApp\\ToDoApp.csproj|c:\\users\\gracjancode\\desktop\\to-do-app\\todoapp\\todoapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5480FAA2-4085-4140-B92A-C61C23E9C67A}|ToDoApp\\ToDoApp.csproj|solutionrelative:todoapp\\todoapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5480FAA2-4085-4140-B92A-C61C23E9C67A}|ToDoApp\\ToDoApp.csproj|c:\\users\\gracjancode\\desktop\\to-do-app\\todoapp\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5480FAA2-4085-4140-B92A-C61C23E9C67A}|ToDoApp\\ToDoApp.csproj|solutionrelative:todoapp\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5480FAA2-4085-4140-B92A-C61C23E9C67A}|ToDoApp\\ToDoApp.csproj|c:\\users\\gracjancode\\desktop\\to-do-app\\todoapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5480FAA2-4085-4140-B92A-C61C23E9C67A}|ToDoApp\\ToDoApp.csproj|solutionrelative:todoapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5480FAA2-4085-4140-B92A-C61C23E9C67A}|ToDoApp\\ToDoApp.csproj|c:\\users\\gracjancode\\desktop\\to-do-app\\todoapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5480FAA2-4085-4140-B92A-C61C23E9C67A}|ToDoApp\\ToDoApp.csproj|solutionrelative:todoapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5480FAA2-4085-4140-B92A-C61C23E9C67A}|ToDoApp\\ToDoApp.csproj|c:\\users\\gracjancode\\desktop\\to-do-app\\todoapp\\taskdataview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5480FAA2-4085-4140-B92A-C61C23E9C67A}|ToDoApp\\ToDoApp.csproj|solutionrelative:todoapp\\taskdataview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ITaskExport.cs",
+              "DocumentMoniker": "C:\\Users\\GracjanCode\\Desktop\\to-do-app\\ToDoApp\\Services\\ITaskExport.cs",
+              "RelativeDocumentMoniker": "ToDoApp\\Services\\ITaskExport.cs",
+              "ToolTip": "C:\\Users\\GracjanCode\\Desktop\\to-do-app\\ToDoApp\\Services\\ITaskExport.cs",
+              "RelativeToolTip": "ToDoApp\\Services\\ITaskExport.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-08T12:22:33.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TaskExport.cs",
+              "DocumentMoniker": "C:\\Users\\GracjanCode\\Desktop\\to-do-app\\ToDoApp\\Services\\TaskExport.cs",
+              "RelativeDocumentMoniker": "ToDoApp\\Services\\TaskExport.cs",
+              "ToolTip": "C:\\Users\\GracjanCode\\Desktop\\to-do-app\\ToDoApp\\Services\\TaskExport.cs",
+              "RelativeToolTip": "ToDoApp\\Services\\TaskExport.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-08T12:22:14.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ToDoApp",
+              "DocumentMoniker": "C:\\Users\\GracjanCode\\Desktop\\to-do-app\\ToDoApp\\ToDoApp.csproj",
+              "RelativeDocumentMoniker": "ToDoApp\\ToDoApp.csproj",
+              "ToolTip": "C:\\Users\\GracjanCode\\Desktop\\to-do-app\\ToDoApp\\ToDoApp.csproj",
+              "RelativeToolTip": "ToDoApp\\ToDoApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-07-08T12:21:43.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TodoItem.cs",
+              "DocumentMoniker": "C:\\Users\\GracjanCode\\Desktop\\to-do-app\\ToDoApp\\TodoItem.cs",
+              "RelativeDocumentMoniker": "ToDoApp\\TodoItem.cs",
+              "ToolTip": "C:\\Users\\GracjanCode\\Desktop\\to-do-app\\ToDoApp\\TodoItem.cs",
+              "RelativeToolTip": "ToDoApp\\TodoItem.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAzwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-08T12:01:06.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\GracjanCode\\Desktop\\to-do-app\\ToDoApp\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ToDoApp\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\GracjanCode\\Desktop\\to-do-app\\ToDoApp\\MainWindow.xaml.cs",
+              "RelativeToolTip": "ToDoApp\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAIwBUAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-08T11:45:03.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\GracjanCode\\Desktop\\to-do-app\\ToDoApp\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "ToDoApp\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\GracjanCode\\Desktop\\to-do-app\\ToDoApp\\MainWindow.xaml",
+              "RelativeToolTip": "ToDoApp\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-07-01T19:57:56.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TaskDataView.cs",
+              "DocumentMoniker": "C:\\Users\\GracjanCode\\Desktop\\to-do-app\\ToDoApp\\TaskDataView.cs",
+              "RelativeDocumentMoniker": "ToDoApp\\TaskDataView.cs",
+              "ToolTip": "C:\\Users\\GracjanCode\\Desktop\\to-do-app\\ToDoApp\\TaskDataView.cs",
+              "RelativeToolTip": "ToDoApp\\TaskDataView.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAYwF4AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-01T19:57:44.578Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

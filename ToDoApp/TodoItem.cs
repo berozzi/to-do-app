@@ -2,6 +2,7 @@
 using System;
 using System.Collections.Generic;
 using System.Text;
+using System.Windows.Media;
 
 namespace ToDoApp
 {
@@ -12,6 +13,7 @@ namespace ToDoApp
         public string TaskDescription { get; set; } = string.Empty;
         public DateTime DueDate { get; set; }
         public PriorityLevel Priority { get; set; }
+
     }
     public enum PriorityLevel
     {
