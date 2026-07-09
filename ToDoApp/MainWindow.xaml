@@ -20,12 +20,12 @@
                 <ComboBoxItem Content="Wysoki"/>
             </ComboBox>
             <Button x:Name="AddTaskButton" Content="Dodaj zadanie" HorizontalAlignment="Left" Margin="146,195,0,0" VerticalAlignment="Top" Width="216" Height="22" Command="{Binding AddCommand}" />
-            <Button Content="Eksportuj" HorizontalAlignment="Left" Margin="146,396,0,0" VerticalAlignment="Top" Width="235"/>
+            <Button Content="Eksportuj" HorizontalAlignment="Left" Margin="146,385,0,0" VerticalAlignment="Top" Width="235" Command="{Binding ExportCommand}"/>
         </Grid>
         <Grid x:Name="TaskListGrid" Margin="400,0,0,0">
             <Label Content="Lista zadań" HorizontalAlignment="Center" Margin="29,24,0,0" VerticalAlignment="Top" FontSize="36"/>
             <Grid x:Name="TaskList">
-                <ListBox ItemsSource="{Binding Items}" Margin="0,93,0,0"
+                <ListBox ItemsSource="{Binding Items}" SelectedItem="{Binding SelectedTask}" Margin="0,93,0,0"
          BorderThickness="0" Background="Transparent">
                     <ListBox.ItemContainerStyle>
                         <Style TargetType="ListBoxItem">

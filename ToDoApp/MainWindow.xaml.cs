@@ -8,6 +8,7 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
+using ToDoApp.Services;
 
 namespace ToDoApp
 {
@@ -19,7 +20,8 @@ namespace ToDoApp
         public MainWindow()
         {
             InitializeComponent();
-            DataContext = new TaskDataView();
+            ITaskExport taskExport = new TaskExport();
+            DataContext = new TaskDataView(taskExport);
         }
     }
 }
